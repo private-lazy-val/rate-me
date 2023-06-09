@@ -1,7 +1,28 @@
-# Проект: 
+## Table of Contents
 
+[Overview](#overview)
+- [Hosting](#hosting)
+- [Technologies](#technologies)
 
-### Используемые технологии
+## Overview
 
+Interactive rating component.
 
-### [Ссылка на Github Pages](insert your link here)
+### Hosting
+
+This project is hosted on GitHub Pages. 
+
+- [https://private-lazy-val.github.io/rateMe/](https://private-lazy-val.github.io/rateMe/)
+
+### Technologies
+
+The following technologies were used to develop this project:
+
+- HTML5 / CSS3 / JS
+- Media queries
+- Responsive web design
+- Flexbox and Grid
+- Webpack
+- Babel
+- PostCSS
+- Core-JS
