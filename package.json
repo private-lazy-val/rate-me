@@ -8,7 +8,7 @@
     "dev": "webpack serve",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    "server": "json-server -w server/db.json -p 3001",
+    "server": "json-server -w server/db.json -p 3000",
     "start": "concurrently \"npm run server\" \"npm run dev\""
   },
   "author": "Valeriia Evstratova",

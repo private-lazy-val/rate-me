@@ -20,11 +20,11 @@
     <h1 class="rate-me__header">Hey Drop Some Rating!</h1>
     <p class="rate-me__p">Did we make you happy? Please share your feedback with us!</p>
     <div class="rate-me__marks-container">
-      <div class="rate-me__circle" tabindex=0>1</div>
-      <div class="rate-me__circle" tabindex=0>2</div>
-      <div class="rate-me__circle" tabindex=0>3</div>
-      <div class="rate-me__circle" tabindex=0>4</div>
-      <div class="rate-me__circle" tabindex=0>5</div>
+      <div class="rate-me__circle rate-me__circle_mark" tabindex=0>1</div>
+      <div class="rate-me__circle rate-me__circle_mark" tabindex=0>2</div>
+      <div class="rate-me__circle rate-me__circle_mark" tabindex=0>3</div>
+      <div class="rate-me__circle rate-me__circle_mark" tabindex=0>4</div>
+      <div class="rate-me__circle rate-me__circle_highest-mark" tabindex=0>5</div>
     </div>
     <button class="rate-me__btn" type="submit">Submit</button>
   </div>
@@ -32,7 +32,7 @@
   <div class="thank-you rate-me">
     <img src=<%=require('./images/illustration-thank-you.svg')%> alt="A receipt getting printed out by a smart device" width="162"
          height="108">
-    <div class="thank-you__result">You selected 4 out of 5</div>
+    <div class="thank-you__result"></div>
     <h2 class="rate-me__header">Thank you!</h2>
     <p class="rate-me__p thank-you__p">We appreciate you taking the time to give a rating. If you ever need more
       support, don't hesitate to get in touch!</p>
