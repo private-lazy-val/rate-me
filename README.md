@@ -10,9 +10,11 @@ Interactive rating component.
 
 ### Hosting
 
-This project is hosted on GitHub Pages. 
+This project is hosted on:
+- [GitHub Pages](https://private-lazy-val.github.io/rateMe/)
+- [Vercel](https://rate-me-5.vercel.app/)
 
-- [https://private-lazy-val.github.io/rateMe/](https://private-lazy-val.github.io/rateMe/)
+
 
 ### Technologies
 
