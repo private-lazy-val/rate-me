@@ -8,6 +8,11 @@
 
 Interactive rating component.
 
+***To emulate the server response and display the second screen, follow these steps:***
+
+1. Open the project in your IDE (e.g., IntelliJ IDEA, Visual Studio Code).
+2. Run the command `npm run start` in the terminal. This will start the json-server and enable interaction with the mock data.
+
 ### Hosting
 
 This project is hosted on:
